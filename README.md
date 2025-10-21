@@ -1,2 +1,2 @@
 # PROYEC-2-T.M
-Conectar con claud y netify 
+Conectar con claude y netlify
